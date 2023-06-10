@@ -9,9 +9,9 @@ export default {
       title: 'Name',
     },
     {
-      name: 'year',
-      type: 'number',
-      title: 'Year',
+      name: 'finance',
+      type: 'string',
+      title: 'Finance Available?',
     },
     {
       name: 'price',
@@ -22,6 +22,11 @@ export default {
       name: 'image',
       type: 'image',
       title: 'Image',
+    },
+    {
+      name: 'extraInfo',
+      type: 'text',
+      title: 'Extra Information',
     },
   ],
 }
