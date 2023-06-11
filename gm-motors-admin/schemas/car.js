@@ -15,7 +15,7 @@ export default {
     },
     {
       name: 'finance',
-      type: 'string',
+      type: 'boolean',
       title: 'Finance Available?',
     },
     {
