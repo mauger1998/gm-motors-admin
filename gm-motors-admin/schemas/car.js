@@ -9,9 +9,9 @@ export default {
       title: 'Name',
     },
     {
-      name: 'year',
+      name: 'order',
       type: 'number',
-      title: 'Year',
+      title: 'Order',
     },
     {
       name: 'finance',
